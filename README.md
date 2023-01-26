@@ -7,6 +7,8 @@ Ashwith Bhatt</a></h1>
   <img align="center" top="500" width="100%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=UserName&theme=rogue" /></a>
+
 <h2>About me</h2>
 ➤ I am Pursuing Bachelors in Technology from KIT's College Of Engineering, Kolhapur. </br>
 ➤ My Specialization is Computer Science and Engineering.
