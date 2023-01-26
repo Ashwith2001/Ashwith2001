@@ -17,13 +17,13 @@ Ashwith Bhatt</a></h1>
 <h4>➤ Savaari - Bus Tracking Android Application</h4>
 <p>Savaari is a bus tracking android application specially built for Kolhapur municipal transportation(KMT). Using this application passengers can track KMT buses with the approximate time of arrival. This application also helps bus drivers to manage their day's schedule.<p>
 <h1/>
-<h4>➤ Rojgar - Job Boarding Platform /*<a target = "_blank" href="http://rojgarapp.tk/" >Visit⬈</a>*/</h4>
+<h4>➤ Rojgar - Job Boarding Platform </h4>
 <p>Job Boarding is a website that specifically deals with employment, careers and internships. It is a platform that supports job opportunities for freshers as well as experienced.<p>
 <h1/>
 <h4>➤ Khata Book - Bill Maintaining website <a target = "_blank" href="http://khatabook.ml/" >Visit⬈</a></h4>
 <p>Khata book is bill maintaining webapp where you can maintain bills regarding customers. It automatically calculates bill total and once you created khata it can be downloadable in pdf format.<p>
 <h1/>
-<h4>➤ Sandesh- Chat Application/*<a target = "_blank" href="https://sandeshchat.herokuapp.com/" >Visit⬈</a>*/</h4>
+<h4>➤ Sandesh- Chat Application</h4>
 <p>It is chat application based on socket programming where users can communicate with each other in secure manner.<p>
 
 <h2>Contact Me</h2>
