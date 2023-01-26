@@ -7,7 +7,7 @@ Ashwith Bhatt</a></h1>
   <img align="center" top="500" width="100%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ashwith2001&theme=rogue" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwith2001)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>About me</h2>
 ➤ I am Pursuing Bachelors in Technology from KIT's College Of Engineering, Kolhapur. </br>
